@@ -4,6 +4,8 @@
 ## RM98323 - Felipe Hideki 
 ## RM550295 - Guilherme Milheiro
 
+### Vídeo -> https://youtu.be/9cTi52IX3Zk
+
 ## 🚨 Contexto
 
 Em áreas propensas a **desastres naturais** como enchentes, deslizamentos e tempestades, a capacidade de **comunicação não verbal** pode ser essencial para garantir a segurança das pessoas.
